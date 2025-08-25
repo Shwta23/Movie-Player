@@ -12,3 +12,6 @@ Key Features:
 📱 Fully responsive UI for all devices
 
 ⚡ Fast and smooth browsing experience
+
+
+![movie.png](https://github.com/Shwta23/Movie-Player/blob/main/img/movie.png)
